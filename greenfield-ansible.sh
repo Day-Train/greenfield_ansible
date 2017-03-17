@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Declare variables
-PKG_LIST="openssh-server python git-all ansible"
+PKG_LIST="openssh-server python ansible"
 SSH_KEY_TYPE=rsa
 SSH_KEY_LENGTH=4096
 
